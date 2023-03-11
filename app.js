@@ -54,6 +54,27 @@
 // console.log(res)
 
 // Answer # 8
-var a = "472";    
-var b = parseInt(a)
-console.log(b)
+// var a = +"472";    
+
+// console.log(a)
+
+
+// Answer # 9
+// var a = prompt("enter value");
+// var b = a.toUpperCase();
+
+// console.log(b)
+
+// Answer # 10
+
+// var a = prompt("enter value");
+// var b = a[0].toUpperCase()
+// console.log(b+a.slice(1))
+
+
+// Answer # 11
+
+// var num = 35.36;
+// var a = num.replace("." , " ")
+
+// console.log(a)
